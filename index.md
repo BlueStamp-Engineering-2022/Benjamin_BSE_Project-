@@ -24,4 +24,6 @@ My first milestone was setting up and hooking up the Raspberry Pi and all the ne
 
 # Starter Project 
 
+Using the basics of soldering and electrical engineering I created the useless machine, which flicks off the switch everytime the switch is flipped on. The useless machine utilizes a motor, battery pack, LED, PCB board, resistors, and switches. 
+
 [![Starter Project](https://img.youtube.com/vi/7vfSJlS_4pI/sddefault.jpg)](https://www.youtube.com/watch?v=7vfSJlS_4pI "First Milestone"){:target="_blank" rel="noopener"}
