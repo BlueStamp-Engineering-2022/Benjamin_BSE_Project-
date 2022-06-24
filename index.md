@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Synthesizer 
+Sends and receives MIDI messages to your PC, allowing direct control of your software. Not only that, but the controls can generally be mapped to anything your like. So what might be a volume fader for one person can be an effect filter for another.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
