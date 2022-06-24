@@ -5,13 +5,13 @@ Sends and receives MIDI messages to your PC, allowing direct control of your sof
 |:--:|:--:|:--:|:--:|
 | Benjamin Tian | Harker Highschool | Environmental Engineering | Incoming Senior
 
-![Headstone Image] https://lh3.googleusercontent.com/pw/AM-JKLUtKiSrftUZUuH99kSPhNqzdFRNEHaItACPUuRcDq-xSCf7jbB94C6HyXmxTHP0vod7M5D6sVshyYRWdO_lPOcMe_uOo7kG2bNo5r7clPAxOgc9vJOn9ezRmYjxrJZoGj9g8qHVkPRiRm6k-g6AtXs=s1414-no?authuser=0
+![Headstone Image] [https://lh3.googleusercontent.com/pw/AM-JKLUtKiSrftUZUuH99kSPhNqzdFRNEHaItACPUuRcDq-xSCf7jbB94C6HyXmxTHP0vod7M5D6sVshyYRWdO_lPOcMe_uOo7kG2bNo5r7clPAxOgc9vJOn9ezRmYjxrJZoGj9g8qHVkPRiRm6k-g6AtXs=s1414-no?authuser=0]
 
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
-[![Final Milestone](https://lh3.googleusercontent.com/pw/AM-JKLUtKiSrftUZUuH99kSPhNqzdFRNEHaItACPUuRcDq-xSCf7jbB94C6HyXmxTHP0vod7M5D6sVshyYRWdO_lPOcMe_uOo7kG2bNo5r7clPAxOgc9vJOn9ezRmYjxrJZoGj9g8qHVkPRiRm6k-g6AtXs=s1414-no?authuser=0)
+[![Final Milestone]()
 
 # Second Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
