@@ -22,6 +22,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was creating the basic circuit for the MIDI controller. This circuit contained 2 buttons, a slide potentiometer, and a knob potentiometer. I also utilized a Arduino Leonardo and code found on the internet located in my github to program inputs into MIDI signals. 
 
+[![First Milestone](https://img.youtube.com/vi/7vfSJlS_4pI/sddefault.jpg)](https://www.youtube.com/watch?v=-uf-8mD1fxA "First Milestone"){:target="_blank" rel="noopener"}
+
 # Starter Project 
 
 Using the basics of soldering and electrical engineering I created the useless machine, which flicks off the switch everytime the switch is flipped on. The useless machine utilizes a motor, battery pack, LED, PCB board, resistors, and switches. 
