@@ -15,7 +15,7 @@ My final milestone is the mapping of potentiometers. To do this I newly download
 # Second Milestone
 My second milestone consists of the same elements of the first milestone except instead of 2 buttons and 1 potentiometer the circuit conists of 12 buttons and 4 potentiometers. Then for the encasing of the whole MIDI controller I use a plastic box and cut holes for where the components will fit into. The schematic for which I used to cut holes is posted in my github repository. I chose to ignore two of the knob potentiometer holes to cut. Under the hoels drilled, the buttons should fit right into each hole, if they do not I used a drennel to widen the intial holes. For the potentiometers I used hot glue to attach the potentiometers to the lid of the plastic box. Finally I soldered wires into each of the components: buttons, sliding and knob potentiometers. I then assembled the circuit according to the circuit diagram posted in github. Finally, under garagbeband the buttons will work and map to certain notes. However, the potetionmeters will not work until I use a mapping software. 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://preview.redd.it/ax0yuiigltq71.jpg?auto=webp&s=448305c076683a05d2f27f35bfbae6b287184701)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
