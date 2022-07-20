@@ -11,7 +11,7 @@ Sends and receives MIDI messages to your PC, allowing direct control of your sof
 # Final Milestone
 My final milestone is the mapping of potentiometers. To do this I newly downloaded a macbook software called Logic Pro X which helps map each potentiometer to a particular function. In mine, sliding potentiometer 1 maps to the selected instruments volume, sliding potentiometer 2 the whole audios volume, knob potentiometer 1 maps to the pan of the instrument selected and potentiometer 2 maps the whole voluems pan. Furthermore, because of an intial break in the original Arudino Leonordo chip, I replaced the arduino chip with a Arduino Mircro chip. 
 
-[![Final Milestone](https://i3.ytimg.com/vi/sgH1CStJsBg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://i3.ytimg.com/vi/sgH1CStJsBg/maxresdefault.jpg)](https://www.youtube.com/watch?v=m_BNecjnYUE "Second Milestone"){:target="_blank" rel="noopener"}
 
 
 # Second Milestone
