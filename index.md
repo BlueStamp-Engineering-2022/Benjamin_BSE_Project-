@@ -11,11 +11,13 @@ Sends and receives MIDI messages to your PC, allowing direct control of your sof
 # Final Milestone
 My final milestone is the mapping of potentiometers. To do this I newly downloaded a macbook software called Logic Pro X which helps map each potentiometer to a particular function. In mine, sliding potentiometer 1 maps to the selected instruments volume, sliding potentiometer 2 the whole audios volume, knob potentiometer 1 maps to the pan of the instrument selected and potentiometer 2 maps the whole voluems pan. Furthermore, because of an intial break in the original Arudino Leonordo chip, I replaced the arduino chip with a Arduino Mircro chip. 
 
+[![Final Milestone](https://i3.ytimg.com/vi/sgH1CStJsBg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
+
 
 # Second Milestone
 My second milestone consists of the same elements of the first milestone except instead of 2 buttons and 1 potentiometer the circuit conists of 12 buttons and 4 potentiometers. Then for the encasing of the whole MIDI controller I use a plastic box and cut holes for where the components will fit into. The schematic for which I used to cut holes is posted in my github repository. I chose to ignore two of the knob potentiometer holes to cut. Under the hoels drilled, the buttons should fit right into each hole, if they do not I used a drennel to widen the intial holes. For the potentiometers I used hot glue to attach the potentiometers to the lid of the plastic box. Finally I soldered wires into each of the components: buttons, sliding and knob potentiometers. I then assembled the circuit according to the circuit diagram posted in github. Finally, under garagbeband the buttons will work and map to certain notes. However, the potetionmeters will not work until I use a mapping software. 
 
-[![Third Milestone](https://i3.ytimg.com/vi/sgH1CStJsBg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone](https://i3.ytimg.com/vi/sgH1CStJsBg/maxresdefault.jpg)](https://www.youtube.com/watch?v=sgH1CStJsBg "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
